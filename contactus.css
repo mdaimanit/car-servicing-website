@@ -1,0 +1,38 @@
+.p1
+{
+    margin: 30px;
+    
+}
+.p2
+{
+    margin: 30px;
+    background:white;
+}
+input[type=text], select{
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    
+  }
+  
+  input[type=submit] {
+    background-color: blueviolet;
+    color: white;
+    margin-top: 10px;
+    margin-left: 180px;
+    padding: 12px;
+    cursor: pointer;
+  }
+  
+  input[type=submit]:hover {
+    background-color: darkorange;
+  }
+  
+  .container {
+    border-radius: 5px;
+    background-color: skyblue;
+    padding: 20px;
+  }
